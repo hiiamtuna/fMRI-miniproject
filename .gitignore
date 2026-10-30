@@ -1,0 +1,13 @@
+# 1. MATLAB Temp Files & Clutter
+*.asv
+*.m~
+matlab_crash_dump*
+# 2. Brain Imaging Data (Raw and Preprocessed)
+*.nii
+*.nii.gz
+*.hdr
+*.img
+# 3. SPM Generated Outputs & Reports
+SPM.mat
+spm_*.ps
+spm_*.pdf
